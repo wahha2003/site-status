@@ -15,7 +15,6 @@ const Footer = () => {
       </div>
       <div className="text">
         <p>
-          {Package.alia}&nbsp;Version&nbsp;{Package.version}
 {Package.alia}&nbsp;Version&nbsp;{Package.version}
         </p>
         <p>
