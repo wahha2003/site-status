@@ -15,10 +15,8 @@ const Footer = () => {
       </div>
       <div className="text">
         <p>
-          <CustomLink
-            text={Package.alia}
-          />
-          &nbsp;Version&nbsp;{Package.version}
+          {Package.alia}&nbsp;Version&nbsp;{Package.version}
+{Package.alia}&nbsp;Version&nbsp;{Package.version}
         </p>
         <p>
           基于&nbsp;
